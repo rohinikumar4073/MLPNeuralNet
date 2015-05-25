@@ -9,6 +9,7 @@ Fast [multilayer perceptron](http://en.wikipedia.org/wiki/Multilayer_perceptron)
   <img src="http://nikolaypavlov.github.io/MLPNeuralNet/images/500px-Artificial_neural_network.png" alt="Neural Network" title="Neural Network" />
 </p>
 
+
 ## Why to choose it?
 Imagine that you created a prediction model in Matlab (Python or R) and want to use it in iOS app. If that's the case, MLPNeuralNet is exactly what you need. It is designed to load and run models in [forward propagation](http://en.wikipedia.org/wiki/Backpropagation#Phase_1:_Propagation) mode only.
 
